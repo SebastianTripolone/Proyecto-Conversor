@@ -29,6 +29,11 @@ app.UseEndpoints(endpoints =>
         pattern: "Integrantes",
         defaults: new { controller = "Home", action = "Privacy" });
 
+    endpoints.MapControllerRoute(
+        name: "Historia",
+        pattern: "Historia",
+        defaults: new { controller = "Home", action = "Historia" });
+
     // Ruta Default
     endpoints.MapControllerRoute(
         name: "default",
