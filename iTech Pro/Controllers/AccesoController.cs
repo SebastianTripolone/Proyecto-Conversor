@@ -60,7 +60,7 @@ namespace iTech_Pro.Controllers
                 }
                 else
                 {
-                    // Guardar el objeto usuario en la sesión
+                    // guarda el objeto usuario en la sesión
                     HttpContext.Session.SetString("usuario", JsonConvert.SerializeObject(usuario));
 
                     return RedirectToAction("Index", "Home");
@@ -78,7 +78,7 @@ namespace iTech_Pro.Controllers
         private bool IsReCaptchValid()
         {
             var captchaResponse = Request.Form["g-recaptcha-response"];
-            var secretKey = "6Ld17_UnAAAAAOWs0zTT-UxMYONIZ9Eo4vdUM1aG";  // Reemplaza con tu clave secreta de reCAPTCHA
+            var secretKey = "6Ld17_UnAAAAAOWs0zTT-UxMYONIZ9Eo4vdUM1aG";  // clave secreta de reCAPTCHA
 
             using (var httpClient = new HttpClient())
             {
@@ -91,7 +91,7 @@ namespace iTech_Pro.Controllers
                 }
                 else
                 {
-                    // Maneja el error de reCAPTCHA aquí
+                    // Maneja el error de reCAPTCHA
                     return false;
                 }
             }
@@ -104,8 +104,8 @@ namespace iTech_Pro.Controllers
 
         public IActionResult CerrarSesion()
         {
-            HttpContext.Session.Clear(); // Limpiar la sesión
-            return RedirectToAction("Login", "Acceso"); // Redirigir al login
+            HttpContext.Session.Clear(); // Limpia la sesión
+            return RedirectToAction("Login", "Acceso"); // Redirige al login
         }
 
         [HttpPost]
@@ -268,31 +268,31 @@ namespace iTech_Pro.Controllers
             var email = authenticateResult.Principal.FindFirstValue(ClaimTypes.Email);
             var name = authenticateResult.Principal.FindFirstValue(ClaimTypes.Name);
 
-            // Verificar si el usuario ya existe en la base de datos
+            // verifica si el usuario ya existe en la base de datos
             var usuarioExistente = DBUsuario.Obtener(email);
             if (usuarioExistente == null)
             {
-                // Registrar nuevo usuario
+                // registra nuevo usuario
                 var nuevoUsuario = new UsuarioDTO
                 {
                     Nombre = name,
                     Correo = email,
-                    // Puedes generar una contraseña aleatoria o enviar al usuario a una página para establecer una contraseña
+                    // genera una contraseña aleatoria o enviar al usuario a una página para establecer una contraseña
                     Clave = UtilidadServicio.ConvertirSHA256("ContraseñaTemporal"),
                     Token = UtilidadServicio.GenerarToken(),
                     Restablecer = false,
-                    Confirmado = true // Puedes establecer como confirmado si estás utilizando Google para autenticación
+                    Confirmado = true // establece como confirmado si estás utilizando Google para autenticación
                 };
 
                 bool respuesta = DBUsuario.Registrar(nuevoUsuario);
                 if (!respuesta)
                 {
-                    // Manejar el error de registro
+                    // maneja el error de registro
                     return RedirectToAction("Login");
                 }
             }
 
-            // Iniciar sesión con el usuario
+            // inicia sesión con el usuario
             HttpContext.Session.SetString("usuario", email);
 
             return RedirectToAction("Index", "Home");

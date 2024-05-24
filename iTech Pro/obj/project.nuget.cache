@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbQg1jAQ1tOJNxe1EnG4EVGn3Nk/LUpVH9v7ZJwsNWD1rh+KUc5AlVJSCFxavnGcElBepd9gAi68jedszOIQIA==",
+  "dgSpecHash": "0UEOAQ4UnvK/RgrujUeJA6kYsFhxnSpvjl9nAADX2KA0pEPZ7kGd46S0d8LBc4O9D8ANPQHBHY0x5mSc11bOzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\iTech Pro.csproj",
+  "projectFilePath": "C:\\Users\\Sebastian\\Desktop\\iTech Pro\\iTech Pro\\iTech Pro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebastian\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "C:\\Users\\Sebastian\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

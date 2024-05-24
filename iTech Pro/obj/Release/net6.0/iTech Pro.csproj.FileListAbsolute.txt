@@ -53,3 +53,58 @@ C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\refint\iT
 C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.pdb
 C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.genruntimeconfig.cache
 C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\ref\iTech Pro.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\appsettings.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\iTech Pro.staticwebassets.runtime.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\iTech Pro.exe
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\iTech Pro.deps.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\iTech Pro.runtimeconfig.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\iTech Pro.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\iTech Pro.pdb
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\FluentAssertions.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\MailKit.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\MimeKit.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Formats.Asn1.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.RazorAssemblyInfo.cache
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.RazorAssemblyInfo.cs
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets\msbuild.iTech Pro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets\msbuild.build.iTech Pro.props
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.iTech Pro.props
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.iTech Pro.props
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\scopedcss\bundle\iTech Pro.styles.css
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\scopedcss\projectbundle\iTech Pro.bundle.scp.css
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\refint\iTech Pro.dll
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.pdb
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\iTech Pro.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\iTech Pro\iTech Pro\obj\Release\net6.0\ref\iTech Pro.dll
