@@ -20,8 +20,8 @@ builder.Services.AddAuthentication(options =>
 .AddCookie()
 .AddGoogle(options =>
 {
-    options.ClientId = "";
-    options.ClientSecret = "";
+    options.ClientId = "881839903286-v2j02lviuafr7gmfkkt4g5s8ibmb7fvs.apps.googleusercontent.com";
+    options.ClientSecret = "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";
     options.CallbackPath = "/Acceso/ExternalLoginCallback";
     options.CorrelationCookie.SameSite = SameSiteMode.Lax;
 
