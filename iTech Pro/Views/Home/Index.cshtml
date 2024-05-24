@@ -1,13 +1,60 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Conversor de monedas";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Bienvenidos a iTech Project</h1>
-    <video width="320" height="240" controls>
-        <source src="~/Equipo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+<!DOCTYPE html>
+<html lang="en">
 
-    <p>Somos un equipo de estudiantes destinados a realizar proyectos de proyectos con fines de poder aprender nuevos conocimientos y obtener experiencia en el mundo de la programcion </p>
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <header><b>Conversor de Monedas</b></header>
+        <form action="#">
+            <div class="amount">
+                <p>Ingrese Monto</p>
+                <input type="text" value="1">
+            </div>
+            <div class="drop-list">
+
+                <div class="form">
+                    <p>Desde</p>
+                    <div class="select-box">
+                        <img src="https://flagcdn.com/48x36/us.png" srcset="https://flagcdn.com/96x72/us.png 2x,
+                          https://flagcdn.com/144x108/us.png 3x" alt="United States">
+                        <select>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="icon"><i class="fas fa-exchange-alt"></i></div>
+
+                <div class="to">
+                    <p>Hasta</p>
+                    <div class="select-box">
+                        <img src="https://flagcdn.com/48x36/bd.png" srcset="https://flagcdn.com/96x72/bd.png 2x,
+                          https://flagcdn.com/144x108/bd.png 3x" alt="Bangladesh">
+
+                        <select>
+                        </select>
+                    </div>
+                </div>
+
+            </div>
+            <div class="exchange-rate">Getting Exchange Rate....</div>
+            <button>Calcular</button>
+        </form>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

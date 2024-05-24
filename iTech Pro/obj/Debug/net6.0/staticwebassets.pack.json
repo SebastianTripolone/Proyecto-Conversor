@@ -9,16 +9,64 @@
       "PackagePath": "staticwebassets\\Equipo.mp4"
     },
     {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\css\\iTech_Pro.styles.css",
+      "PackagePath": "staticwebassets\\css\\iTech_Pro.styles.css"
+    },
+    {
       "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\flags\\flag-aed.png",
+      "PackagePath": "staticwebassets\\flags\\flag-aed.png"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\flags\\flag-arg.jpg",
+      "PackagePath": "staticwebassets\\flags\\flag-arg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\flags\\flag-aud.png",
+      "PackagePath": "staticwebassets\\flags\\flag-aud.png"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\flags\\flag-brl.png",
+      "PackagePath": "staticwebassets\\flags\\flag-brl.png"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\img\\icono.jpg",
+      "PackagePath": "staticwebassets\\img\\icono.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\img\\icono.png",
+      "PackagePath": "staticwebassets\\img\\icono.png"
+    },
+    {
       "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\itech.jpg",
       "PackagePath": "staticwebassets\\itech.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\js\\country-list.js",
+      "PackagePath": "staticwebassets\\js\\country-list.js"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\js\\graficos.js",
+      "PackagePath": "staticwebassets\\js\\graficos.js"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
       "Id": "C:\\Users\\Sebastian\\source\\repos\\iTech Pro\\iTech Pro\\wwwroot\\js\\site.js",

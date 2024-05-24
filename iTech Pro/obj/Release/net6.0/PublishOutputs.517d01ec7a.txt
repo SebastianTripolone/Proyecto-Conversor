@@ -1,0 +1,30 @@
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\iTech Pro.exe
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\iTech Pro.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\iTech Pro.deps.json
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\iTech Pro.runtimeconfig.json
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\iTech Pro.pdb
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\FluentAssertions.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\MailKit.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\MimeKit.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Formats.Asn1.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastian\source\repos\iTech Pro\iTech Pro\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
