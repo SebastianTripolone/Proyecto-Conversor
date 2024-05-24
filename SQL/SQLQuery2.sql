@@ -18,4 +18,4 @@ Token varchar(200)
 
 select * from Usuario
 
-DELETE From Usuario WHERE Correo = 'seba99vte@gmail.com'
+DELETE From Usuario WHERE Correo = ''
